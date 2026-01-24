@@ -55,6 +55,10 @@ I also create educational content to help traders shift from **emotional trading
 
 ---
 
+## Profile Views 
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=joshinitinofficial)
+
 ## Contact
 
 For collaborations, tools, or educational partnerships:  
