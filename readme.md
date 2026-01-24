@@ -49,17 +49,17 @@ I also create educational content to help traders shift from **emotional trading
 
 ## Public Presence
 
-- Telegram: https://t.me/beingsystemtrader  
-- Instagram: Being System Trader  
-- YouTube: @beingsystemtrader
+- Telegram: https://t.me/beingsystemtrader    
+- YouTube: https://www.youtube.com/@beingsystemtrader
+- X: https://x.com/trader_joshi
 
 ---
 
 ## GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joshinitinofficial&show_icons=true&hide_title=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joshinitinofficial&layout=compact)
 
 ---
 
