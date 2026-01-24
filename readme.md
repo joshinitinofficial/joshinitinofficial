@@ -4,6 +4,7 @@
 
 Building systematic trading tools, arbitrage systems, and automation frameworks for financial markets.
 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=joshinitinofficial)
 ---
 
 ## About Me
@@ -54,10 +55,6 @@ I also create educational content to help traders shift from **emotional trading
 - X: https://x.com/trader_joshi
 
 ---
-
-## Profile Views 
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=joshinitinofficial)
 
 ## Contact
 
