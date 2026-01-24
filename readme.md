@@ -55,17 +55,10 @@ I also create educational content to help traders shift from **emotional trading
 
 ---
 
-## GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joshinitinofficial&show_icons=true&hide_title=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joshinitinofficial&layout=compact)
-
----
-
 ## Contact
 
 For collaborations, tools, or educational partnerships:  
-**email - joshinitinofficial@gmail.com**
-**Telegram - t.me/trader_joshi**
-**X - https://x.com/trader_joshi**
+- email : joshinitinofficial@gmail.com
+- Telegram: https://t.me/trader_joshi    
+- X: https://x.com/trader_joshi
+
