@@ -4,9 +4,6 @@
 
 Building systematic trading tools, arbitrage systems, and automation frameworks for financial markets.
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=joshinitinofficial)
----
-
 ## About Me
 
 I specialize in designing **rule-based trading systems**, **options strategies**, and **arbitrage automation** across equities, derivative, and crypto markets.  
@@ -18,7 +15,7 @@ I also create educational content to help traders shift from **emotional trading
 
 ## Core Expertise
 
-- Algorithmic Trading (Python, Pine Script)
+- Algorithmic Trading
 - Options Strategies & Option Wheel Systems
 - Equity & Crypto Arbitrage Models
 - Strategy Backtesting & Performance Analytics
