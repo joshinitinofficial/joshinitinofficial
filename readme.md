@@ -24,17 +24,6 @@ I also create educational content to help traders shift from **emotional trading
 
 ---
 
-## Key Projects
-
-- **Option Wheel Strategy Framework** — systematic income model
-- **Staggred Buying Model** — Can be treated as Low Capital Covered Call 
-- **Government Bonds Yield Analyzer** — generate alpha in g-secs  
-- **Strategy Backtesting Dashboards** — capital curve, CAGR, drawdown etc for strategies report
-- **Equity Aplha Generator** — created mutiple equity modles which do churing/jobbing to generate alpha
-  
-
----
-
 ## Trading Philosophy
 
 > “Eliminate discretion. Trust data. Execute systematically.”
