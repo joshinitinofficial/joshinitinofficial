@@ -45,7 +45,7 @@ I also create educational content to help traders shift from **emotional trading
 ## Contact
 
 For collaborations, tools, or educational partnerships:  
-- email : joshinitinofficial@gmail.com
+- email : nitin@joshiquant.in
 - Telegram: https://t.me/trader_joshi    
 - X: https://x.com/trader_joshi
 
