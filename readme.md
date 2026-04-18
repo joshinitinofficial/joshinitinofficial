@@ -1,6 +1,6 @@
 # Nitin Joshi
 
-**Quant Trader | Algorithmic Trading Specialist | Building — JoshiQuant.in**
+**Quant Trader | Algorithmic Trading Specialist | Building - JoshiQuant.in**
 
 Designing and deploying systematic trading strategies, arbitrage frameworks, and execution engines across global financial markets.
 
