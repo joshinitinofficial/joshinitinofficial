@@ -1,6 +1,6 @@
 # Nitin Joshi
 
-**Quant Trader | Algorithmic Trading Specialist | Building - JoshiQuant.in**
+**Quant Trader | Algorithmic Trading Specialist | Building - JoshiQuant**
 
 Designing and deploying systematic trading strategies, arbitrage frameworks, and execution engines across global financial markets.
 
@@ -30,23 +30,12 @@ I specialize in converting **market inefficiencies into scalable, rule-based sys
 
 ## Systems & Models Built
 
-- Multi-leg Arbitrage Engines (Cash-Futures, Options Mispricing)
+- Multi-leg Arbitrage Engines (Cash-Futures, Options Mispricing, Low Latency Model)
 - Bitcoin Options Arbitrage Models (Delta Exchange)
-- NSE–BSE Equity Arbitrage Systems
+- NSE–BSE Mutiple Arbitrage Systems
 - Volatility Harvesting Strategies
 - Automated Option Selling Frameworks (Wheel, Spreads)
 - Custom Trading Bots with Real-time Execution Logic
-
----
-
-## Trading Philosophy
-
-> “Markets reward systems, not opinions.”
-
-- Execution > Prediction  
-- Consistency > Intuition  
-- Risk Management > Returns  
-- Data > Emotions  
 
 ---
 
@@ -59,21 +48,12 @@ I specialize in converting **market inefficiencies into scalable, rule-based sys
 
 ---
 
-## Tech Stack & Tools
-
-- Python (Primary Execution & Strategy Engine)
-- Trading APIs (Brokers, Crypto Exchanges)
-- Pine Script (TradingView Indicators & Strategies)
-- Data Analysis & Backtesting Frameworks
-- VPS & Low-latency Execution Environments
-
----
-
 ## Public Presence
 
 - Website: https://joshiquant.in  
-- Telegram: https://t.me/beingsystemtrader  
-- YouTube: https://www.youtube.com/@beingsystemtrader  
+- Telegram: https://t.me/joshiquant 
+- YouTube: https://www.youtube.com/@joshiquant
+- Instagram : https://www.instagram.com/joshiquant
 - X (Twitter): https://x.com/trader_joshi  
 
 ---
@@ -82,10 +62,8 @@ I specialize in converting **market inefficiencies into scalable, rule-based sys
 
 For collaborations, consulting, or custom system development:
 
-- Email: nitin@joshiquant.in  
-- Telegram: https://t.me/trader_joshi  
-- X: https://x.com/trader_joshi  
-
+- Email: nitin@joshiquant.in
+  
 ---
 
 ## Note
